@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef428a3a.css",
+    "main.js": "/static/js/main.06f89904.js",
+    "static/media/minimalistic-workplace-with-gadgets.jpg": "/static/media/minimalistic-workplace-with-gadgets.4e9563cd5fcc2da5d91e.jpg",
+    "static/media/6965061.jpg": "/static/media/6965061.e64332b0c418afc64242.jpg",
+    "static/media/profesor.png": "/static/media/profesor.c85054b612ce7eb68b65.png",
+    "static/media/bg4.jpg": "/static/media/bg4.32d6bdbe799f31ca62a6.jpg",
+    "index.html": "/index.html",
+    "main.ef428a3a.css.map": "/static/css/main.ef428a3a.css.map",
+    "main.06f89904.js.map": "/static/js/main.06f89904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef428a3a.css",
+    "static/js/main.06f89904.js"
+  ]
+}
